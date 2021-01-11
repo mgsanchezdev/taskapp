@@ -1,0 +1,20 @@
+.modal-edit-tast .modal-edit-error {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.modal-edit-tast {
+  z-index: 10;
+}
+
+.modal-edit-error {
+  z-index: 100;
+}
+
+.container-edit-task {
+  position: fixed;
+  top: 33%;
+  left: 42%;
+}
