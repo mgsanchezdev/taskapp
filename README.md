@@ -15,3 +15,7 @@ El proyecto usa la libreria UI React-Bootstrap
 El proyecto se abre en el navegador la dirección:
 
 [http://localhost:3000]
+
+## Para ver la App:
+
+https://taskapp.mgsanchezdev.vercel.app/
